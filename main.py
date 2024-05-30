@@ -8,7 +8,7 @@ from flask import Flask, jsonify, request, send_file, send_from_directory
 # 🔥 FILL THIS OUT FIRST! 🔥
 # 🔥 GET YOUR GEMINI API KEY AT 🔥
 # 🔥 https://g.co/ai/idxGetGeminiKey 🔥
-os.environ["GOOGLE_API_KEY"] = "AIzaSyDA4t1jhH2j-DyWMGqSR6ouAQR6XSLyhcc"; 
+os.environ["GOOGLE_API_KEY"] = "TODO"; 
 
 app = Flask(__name__)
 
